@@ -1,6 +1,6 @@
 MAGAZINE FOR TRIP
 
-http://magazine12.s3-website.ap-northeast-2.amazonaws.com/
+[주소] http://magazine12.s3-website.ap-northeast-2.amazonaws.com/
 
 항해 리액트 심화 과제로 만든 것. 솔직히 어려워서 튜터님이 주신 코드 많이 활용함... 흐름을 파악하고 나한테 맞게 변경하면서...ㅎㅎㅎ
 aws s3버킷으로 호스팅함.
